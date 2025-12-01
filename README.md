@@ -1,16 +1,27 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**alanni-tom/alanni-tom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <img src="https://github-profile-trophy.vercel.app/?username=alanni-tom&theme=flat&no-bg=true&margin-w=15&margin-h=15" />
 
-Here are some ideas to get you started:
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Welcome to alanni Github!" alt="Typing SVG" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <h3>🛠 Tech Stack & Tools</h3>    <img src="https://skillicons.dev/icons?i=java,php,python,flask,mysql,html,css,js,git,docker,linux,vscode,idea&perline=7&theme=dark" />
+  </a>
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=alanni-tom&theme=tokyonight&hide_border=true&background=0D1117" alt="Streak" />
+      </td>
+    </tr>
+  </table>
+
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanni-tom&layout=compact&theme=tokyonight&bg_color=0D1117&hide_border=true&langs_count=8" alt="Languages" />
+
+  <p>
+    <a href="mailto:你的邮箱@example.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    <a href="https://github.com/alanni-tom">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+  </p>
