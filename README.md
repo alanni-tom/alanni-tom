@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 
   <img src="https://github-profile-trophy.vercel.app/?username=alanni-tom&theme=flat&no-bg=true&margin-w=15&margin-h=15" />
 
@@ -13,10 +13,6 @@
       </td>
     </tr>
   </table>
-
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanni-tom&layout=compact&theme=tokyonight&bg_color=0D1117&hide_border=true&langs_count=8" alt="Languages" />
-
   <p>
     <a href="mailto:alanni@zohomail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
